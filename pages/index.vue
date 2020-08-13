@@ -1,30 +1,17 @@
 <template>
-  <div class="container">
-    <div>
-      <Logo />
-      <h1 class="title">
-        kmcmaster.dev
-      </h1>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a>
+  <section>
+    <Header />
+    <main class="container">
+      <div>
+        <h1 class="title">
+          Kyle McMaster
+        </h1>
+        <!-- <Skills /> -->
+        <Languages />
+        <Frameworks />
       </div>
-    </div>
-  </div>
+    </main>
+  </section>
 </template>
 
 <script lang="ts">
@@ -36,8 +23,8 @@ export default Vue.extend({})
 <style>
 .container {
   margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
+  min-height: 93vh;
+  /* display: flex; */
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -54,22 +41,10 @@ export default Vue.extend({})
     'Helvetica Neue',
     Arial,
     sans-serif;
-  display: block;
-  font-weight: 300;
+  /* display: block; */
+  font-weight: 200;
   font-size: 100px;
   color: #35495e;
   letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
 }
 </style>
