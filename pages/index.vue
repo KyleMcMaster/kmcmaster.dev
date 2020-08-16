@@ -47,4 +47,15 @@ export default Vue.extend({})
   color: #35495e;
   letter-spacing: 1px;
 }
+
+.NuxtLogo {
+  animation: 1s appear;
+  margin: auto;
+}
+
+@keyframes appear {
+  0% {
+    opacity: 0;
+  }
+}
 </style>

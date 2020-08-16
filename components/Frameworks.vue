@@ -9,13 +9,13 @@
         <Functions />
       </div>
       <div class="col-2">
-        <Angular />
-      </div>
-      <div class="col-2">
         <VisualStudio />
       </div>
       <div class="col-2">
-        <Git />
+        <Angular />
+      </div>
+      <div class="col-2">
+        <Bootstrap />
       </div>
       <div class="col-2">
         <Git />
