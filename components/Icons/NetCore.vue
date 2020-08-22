@@ -1,5 +1,5 @@
 <template>
-<svg class="NuxtLogo" width="180" height="180" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<svg class="NuxtLogo" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
 <defs>
   <style>.cls-1{fill:#35495e;}.cls-2,.cls-3{fill:#fff;}.cls-2{opacity:0.1;}.cls-4{fill:#f2f2f2;}</style>
 </defs>

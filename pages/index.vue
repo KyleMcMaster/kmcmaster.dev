@@ -6,6 +6,9 @@
         <h1 class="title">
           Kyle McMaster
         </h1>
+        <br/>
+        <h5 class="tagline">Software Engineer located in Cleveland, Ohio</h5>
+        <br/>
         <!-- <Skills /> -->
         <Languages />
         <Frameworks />
@@ -48,9 +51,29 @@ export default Vue.extend({})
   letter-spacing: 1px;
 }
 
+.tagline {
+  font-family:
+    'Quicksand',
+    'Source Sans Pro',
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    'Helvetica Neue',
+    Arial,
+    sans-serif;
+  /* display: block; */
+  font-weight: 200;
+  font-size: 20px;
+  color: #35495e;
+  letter-spacing: 1px;
+}
+
 .NuxtLogo {
   animation: 1s appear;
   margin: auto;
+  height: 160;
+  width: 160;
 }
 
 @keyframes appear {

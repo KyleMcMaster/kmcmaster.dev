@@ -1,5 +1,5 @@
 <template>
-<svg class="NuxtLogo" width="180" height="180" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+<svg class="NuxtLogo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
   <title>Icon-databases-132</title>
   <path d="M6.84,5.09c-3.5,0-6.34-1-6.34-2.3V15c0,1.26,2.79,2.28,6.25,2.3h.09c3.5,0,6.34-1,6.34-2.3V2.79C13.18,4.06,10.34,5.09,6.84,5.09Z" fill="#35495e"/>
   <path d="M13.18,2.79c0,1.27-2.84,2.3-6.34,2.3S.5,4.06.5,2.79,3.34.49,6.84.49s6.34,1,6.34,2.3" fill="#35495e"/>

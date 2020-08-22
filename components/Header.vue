@@ -7,7 +7,7 @@
     >
       <div>
         <a
-          href="https://www.linkedin.com/in/kylerobertmcmaster"
+          :href="linkedin"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
@@ -15,7 +15,7 @@
           <span class="icon"><fa :icon="['fab', 'linkedin']"/></span>
         </a>
         <a
-          href="https://github.com/kylemcmaster"
+          :href="github"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
@@ -26,3 +26,13 @@
     </nav>
   </header>
 </template>
+<script>
+export default {
+  data(){
+    return {
+      github: "https://github.com/kylemcmaster",
+      linkedin: "https://www.linkedin.com/in/kylerobertmcmaster"
+    }
+  }
+}
+</script>

@@ -1,5 +1,5 @@
 <template>
-  <svg class="NuxtLogo" xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 18 18">
+  <svg class="NuxtLogo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
     <defs>
       <linearGradient id="b403aca7-f387-4434-96b4-ae157edc835f" x1="-175.993" y1="-343.723" x2="-175.993" y2="-359.232" gradientTransform="translate(212.573 370.548) scale(1.156 1.029)" gradientUnits="userSpaceOnUse">
         <stop offset="0" stop-color="#35495e"/>
