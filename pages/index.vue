@@ -9,7 +9,6 @@
         <br/>
         <h5 class="tagline">Software Engineer located in Cleveland, Ohio</h5>
         <br/>
-        <!-- <Skills /> -->
         <Languages />
         <Frameworks />
       </div>
@@ -62,7 +61,6 @@ export default Vue.extend({})
     'Helvetica Neue',
     Arial,
     sans-serif;
-  /* display: block; */
   font-weight: 200;
   font-size: 20px;
   color: #35495e;

@@ -1,6 +1,6 @@
 <template>
   <div class="mx-2">
-    <h1 class="title">Languages:</h1>
+    <h1 class="title">Languages</h1>
     <div class="row">
       <div class="col-3">
         <CSharp height="160" width="160"/>
@@ -30,7 +30,6 @@
     'Helvetica Neue',
     Arial,
     sans-serif;
-  /* display: block; */
   font-weight: 200;
   font-size: 50px;
   color: #35495e;
