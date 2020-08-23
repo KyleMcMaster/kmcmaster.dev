@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="#35495e"/>
       </linearGradient>
     </defs>
-    <title>Icon-compute-29</title>
+    <title>Azure Functions</title>
     <g>
       <path d="M2.37,7.475H3.2a.267.267,0,0,1,.267.267v6.148a.533.533,0,0,1-.533.533H2.1a0,0,0,0,1,0,0V7.741a.267.267,0,0,1,.267-.267Z" transform="translate(12.507 16.705) rotate(134.919)" fill="#35495e"/>
       <path d="M2.325,3.6h.833a.267.267,0,0,1,.267.267v6.583a0,0,0,0,1,0,0H2.591a.533.533,0,0,1-.533-.533V3.865A.267.267,0,0,1,2.325,3.6Z" transform="translate(5.759 0.114) rotate(44.919)" fill="#35495e"/>
@@ -19,12 +19,12 @@
       <path d="M15.108,3.6h.833a0,0,0,0,1,0,0v6.583a.267.267,0,0,1-.267.267h-.833a.267.267,0,0,1-.267-.267V4.131a.533.533,0,0,1,.533-.533Z" transform="translate(31.022 1.222) rotate(135.081)" fill="#35495e"/>
     </g>
     <path d="M8.459,9.9H4.87a.193.193,0,0,1-.2-.181.166.166,0,0,1,.018-.075L8.991,1.13a.206.206,0,0,1,.186-.106h4.245a.193.193,0,0,1,.2.181.165.165,0,0,1-.035.1L8.534,7.966h4.928a.193.193,0,0,1,.2.181.176.176,0,0,1-.052.122L5.421,16.788c-.077.046-.624.5-.356-.189h0Z" fill="url(#b403aca7-f387-4434-96b4-ae157edc835f)"/>
-  <metadata>
-    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-        <rdf:li>public:true</rdf:li>
-        <rdf:li>sdk:MsPortalFx.Base.Images.Polychromatic.Functions()</rdf:li>
-        <rdf:li>category: Compute, IoT</rdf:li>
-    </rdf:RDF>
-  </metadata>
+    <metadata>
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+          <rdf:li>public:true</rdf:li>
+          <rdf:li>sdk:MsPortalFx.Base.Images.Polychromatic.Functions()</rdf:li>
+          <rdf:li>category: Compute, IoT</rdf:li>
+      </rdf:RDF>
+    </metadata>
   </svg>
 </template>

@@ -3,7 +3,7 @@
 <defs>
   <style>.cls-1{fill:#35495e;}.cls-2,.cls-3{fill:#fff;}.cls-2{opacity:0.1;}.cls-4{fill:#f2f2f2;}</style>
 </defs>
-<title>logo_NETcore</title>
+<title>NET Core</title>
 <circle class="cls-1" cx="32" cy="32" r="32"/>
   <path class="cls-2" d="M9.82,9A32,32,0,1,0,55,54.18Z"/>
   <path class="cls-3" d="M7.4,37.25a1.35,1.35,0,0,1-1-.42,1.38,1.38,0,0,1-.41-1,1.4,1.4,0,0,1,.41-1,1.34,1.34,0,0,1,1-.43,1.37,1.37,0,0,1,1,.43,1.39,1.39,0,0,1,.42,1,1.37,1.37,0,0,1-.42,1A1.38,1.38,0,0,1,7.4,37.25Z"/>
