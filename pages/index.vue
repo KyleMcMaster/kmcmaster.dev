@@ -4,10 +4,10 @@
     <main class="container">
       <div>
         <h1 class="title">
-          Kyle McMaster
+          {{name}}
         </h1>
         <br/>
-        <h5 class="tagline">Software Engineer located in Cleveland, Ohio</h5>
+        <h5 class="tagline">{{tagline}}</h5>
         <br/>
         <Languages />
         <Frameworks />
@@ -19,7 +19,14 @@
 <script lang="ts">
 import Vue from 'vue'
 
-export default Vue.extend({})
+export default Vue.extend({
+  data() {
+    return {
+      name: 'Kyle McMaster',
+      tagline: 'Software Engineer located in Cleveland, Ohio'
+    }
+  }
+})
 </script>
 
 <style>
