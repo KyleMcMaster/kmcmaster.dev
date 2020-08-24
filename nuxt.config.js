@@ -51,7 +51,7 @@ export default {
   fontawesome: {
     component: 'fa',
     icons: {
-      solid: ['faEnvelope','faLock','faSignInAlt'],
+      // solid: ['faEnvelope','faLock','faSignInAlt'],
       brands: ['faGithub', 'faLinkedin']
     }
   },
