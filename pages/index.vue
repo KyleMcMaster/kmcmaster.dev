@@ -77,8 +77,6 @@ export default Vue.extend({
 .NuxtLogo {
   animation: 1s appear;
   margin: auto;
-  height: 160;
-  width: 160;
 }
 
 @keyframes appear {

@@ -3,16 +3,16 @@
     <h1 class="title">Languages</h1>
     <div class="row">
       <div class="col-3">
-        <CSharp height="160" width="160"/>
+        <CSharp />
       </div>
       <div class="col-3">
-        <Sql height="160" width="160"/>
+        <Sql />
       </div>
       <div class="col-3">
-        <Typescript height="160" width="160"/>
+        <Typescript />
       </div>
       <div class="col-3">
-        <Html5 height="160" width="160"/>
+        <Html5 />
       </div>
     </div>
     <br/>
