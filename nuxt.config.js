@@ -46,7 +46,15 @@ export default {
   */
   buildModules: [
     '@nuxt/typescript-build',
+    '@nuxtjs/fontawesome',
   ],
+  fontawesome: {
+    component: 'fa',
+    icons: {
+      // solid: ['faEnvelope','faLock','faSignInAlt'],
+      brands: ['faGithub', 'faLinkedin']
+    }
+  },
   /*
   ** Nuxt.js modules
   */
