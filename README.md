@@ -1,11 +1,5 @@
 # kmcmaster.dev
 
-## Description
-
-Sample portfolio app using Vue and Nuxt.js
-
-![Node.js CI](https://github.com/KyleMcMaster/kmcmaster.dev/workflows/Node.js%20CI/badge.svg)
-
 ## Build Setup
 
 ```bash
